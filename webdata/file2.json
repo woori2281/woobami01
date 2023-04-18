@@ -1,0 +1,48 @@
+[
+    {
+        "web_project" : "제작물들",
+        "content" :
+
+        [ 
+            {
+                "name" : "bick",
+                "img_box_img11" :"images/bick_app1.png",
+                "img_box_img22" :"images/bick_app2.png",
+                "text_box_img" :"images/arrow.png",
+                "file_p" :"첨부파일",
+                "file_img" :"images/file_icon.png",
+                "color1":"#e7ebf1",
+                "color2":"#035cd9",
+                "alink": "http://woobami.com/zip/Bike-HUB.zip",
+                "text_box_h3" : "Bike Hub App design",
+                "color_chip2_1" :"#e7ebf1",
+                "color_chip2_2" :"#035cd9",
+                "color_chip2_3" :"#141b2b",
+                "color_chip2_4" :"#2cadca",
+                "p_content" : "컨셉 : 블루를 주조색으로 사용하여 신뢰와 믿음을 강조 하는 기업 이미지를 주었고 내용 전달을목적으로 하는 제조업 특성상 심플한 레아웃과 구성으로 명시성을 돋보이게 디자인 하였다."
+            },
+            {
+                "name" : "pet",
+                "img_box_img11" :"images/pet_app1.png",
+                "img_box_img22" :"images/pet_app2.png",
+                "file_p" :"",
+                "file_img" :"none",
+                "color1":"none",
+                "color2":"none",
+          
+                "text_box_h3" : "Pet Site App design",
+                "color_chip2_1" :"white",
+                "color_chip2_2" :"#f6f6f6",
+                "color_chip2_3" :"#f7a92e",
+                "color_chip2_4" :"#95b57e",
+                "p_content" : "컨셉 : 펫 종합 몰로 병원부터 미용까지 한번에 볼 수 있는 앱을 제작하였다. 활긴찬 분위기와 아기자기한 느낌을 주기위해 밝은 톤의 따뜻한 색채를 넣어 디자인하였고, 웜컬러의 톤인톤 배색으로 컬러의 전체적인 분위기를 온화하게 맞춰주었다. "
+            }
+
+
+
+            ]
+
+        }
+    ]
+    
+    
